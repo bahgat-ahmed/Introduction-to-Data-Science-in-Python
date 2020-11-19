@@ -1,2 +1,5 @@
-# Introduction-to-Data-Science-in-Python
-The first course in the " Applied Data Science with Python" Specialization on Coursera provided by University of Michigan
+# Introduction to Data Science in Python
+
+I was taking this course [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?utm_source=gg&utm_medium=sem&utm_campaign=06-PythonforEverybody-ROW&utm_content=06-PythonforEverybody-ROW&campaignid=6493101579&adgroupid=111505143509&device=c&keyword=&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=475026818346&hide_mobile_promo&gclid=CjwKCAiAzNj9BRBDEiwAPsL0d8wzKxlLSNhstOGzyustri3FCdyextHLa_4ZF2I3imBh1sNn4gXdMRoCxbQQAvD_BwE) on Coursera, and this is the third course in the [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python?utm_source=gg&utm_medium=sem&utm_campaign=06-PythonforEverybody-ROW&utm_content=06-PythonforEverybody-ROW&campaignid=6493101579&adgroupid=111505143509&device=c&keyword=&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=475026818346&hide_mobile_promo&gclid=CjwKCAiAzNj9BRBDEiwAPsL0d55_2NlpbhNdwqWryrP0VKK2Ta3gToorMJVBfa-MVg-1KarUjxLv4RoCwgEQAvD_BwE) Specialization on Coursera provided by **University of Michigan**. Here are the Notebooks I practiced in while taking this course. These Notebooks are initially formed by the course providers **University of Michigan**.
+
+<img src="data-science.jpg">
