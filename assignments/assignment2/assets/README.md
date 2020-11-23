@@ -1,1 +1,1 @@
-The file **NISPUF17.csv** could not be uploaded due to its large size. Insead I have uploaded it to google drive here [NISPUF17.csv](https://drive.google.com/file/d/1_tA4yG45lJ48sg1ClRM03nYF1MK2l-Iv/view?usp=sharing).
+The file **NISPUF17.csv** could not be uploaded due to its large size. Insead, I have uploaded it to google drive here [NISPUF17.csv](https://drive.google.com/file/d/1_tA4yG45lJ48sg1ClRM03nYF1MK2l-Iv/view?usp=sharing).
