@@ -1,0 +1,1 @@
+These notebook files are provided as read-only to allow you to copy them back to your working folder in the event the originals are deleted.
